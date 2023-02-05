@@ -1,5 +1,5 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ иЗЁи╣д╟Э╨╛нд╪Ч║ё
+// Microsoft Visual C++ иЗЁи╣д╟│E╛нд╪Ч║ё
 // ╧╘ OpenVR-FBTWalk.rc й╧сц
 //
 #define IDI_ICON1                       101
